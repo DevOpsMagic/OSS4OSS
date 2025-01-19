@@ -2,9 +2,11 @@
 Open source projects and tools for managing and securing open source
 | OSS Projects                        | Summary                       | Detail |  
 | --------------------------          | --------------------------    | ------------- |
-| https://opensourceindex.io/         | Open Source Contributor Index | Commercial organizations are ranked by the volume of their employees’ year-to-date open source         contributions on GitHub
+| Community                           |                               |               | 
+| https://opensourceindex.io/         | Open Source Contributor Index | Commercial organizations are ranked by the volume of their employees’ year-to-date open source contributions on GitHub
+| https://chaoss.community/           | Community Health Analytics    | CHAOSS is a Linux Foundation project focused on creating metrics, metrics models, and software to better understand open source community health on a global scale.
+| Security                            |                               |               |
 | https://opensourcesecurityindex.io/ | Open Source Security Index    | The Most Popular & Fastest Growing Open Source Security Projects on GitHub
-| https://chaoss.community/           | Community Health Analytics    | CHAOSS is a Linux Foundation project focused on creating metrics, metrics models, and software to       better understand open source community health on a global scale.
 | https://deps.dev/                   | Understand your dependencies  | Examines each package, constructs a full, detailed graph of its dependencies and their properties.The service currently indexes the Cargo, Go, Maven, npm, NuGet and PyPI package ecosystems, the GitHub, GitLab, and Bitbucket project hosts, and the security advisories from OSV. 
 | https://www.softwaretransparency.org/osskb | Snippet-level software identification against a public knowledgebase | Detect declared and undeclared open source software in your software composition, you can check against plagiarism of any open source introduced by copy/paste     
 | https://ossinsight.io/ | GitHub Data Explorer | Gain deep insight into developers and repos on GitHub about stars, pull requests, issues, pushes, comments, reviews. Provides comprehensive, valuable, and trending insights into the open source world by analyzing 5+ billion rows of GitHub events data.
