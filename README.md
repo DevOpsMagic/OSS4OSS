@@ -6,6 +6,7 @@ Open source projects and tools for managing and securing open source
 | https://opensourceindex.io/         | Open Source Contributor Index | Commercial organizations are ranked by the volume of their employees’ year-to-date open source contributions on GitHub
 | https://chaoss.community/           | Community Health Analytics    | CHAOSS is a Linux Foundation project focused on creating metrics, metrics models, and software to better understand open source community health on a global scale.
 | Security                            |                               |               |
+| https://github.com/awesomeSBOM/awesome-sbom/ | Awesome list of SBOM tools | A curated list of SBOM (Software Bill Of Materials) related tools, frameworks, blogs, podcasts, and articles 
 | https://opensourcesecurityindex.io/ | Open Source Security Index    | The Most Popular & Fastest Growing Open Source Security Projects on GitHub
 | https://deps.dev/                   | Understand your dependencies  | Examines each package, constructs a full, detailed graph of its dependencies and their properties.The service currently indexes the Cargo, Go, Maven, npm, NuGet and PyPI package ecosystems, the GitHub, GitLab, and Bitbucket project hosts, and the security advisories from OSV. 
 | https://www.softwaretransparency.org/osskb | Snippet-level software identification against a public knowledgebase | Detect declared and undeclared open source software in your software composition, you can check against plagiarism of any open source introduced by copy/paste     
@@ -21,4 +22,3 @@ Open source projects and tools for managing and securing open source
 | https://osv.dev/ | A distributed vulnerability database for Open Source | An open, precise, and distributed approach to producing and consuming vulnerability information for open source.
 | https://guac.sh/ | Graph for Understanding Artifact Composition | (GUAC) and visualizing the supply chain gives you organized and actionable insights into your software supply chain security position. GUAC ingests software security metadata, like SBOMs, and maps out the relationship between software so that you can fully understand your software security position.
 | https://github.com/google/oss-fuzz | fuzzing tool | OSS-Fuzz aims to make common open source software more secure and stable by using modern fuzzing techniques
-| https://github.com/awesomeSBOM/awesome-sbom/ | Awesome list of SBOM tools | A curated list of SBOM (Software Bill Of Materials) related tools, frameworks, blogs, podcasts, and articles 
