@@ -10,6 +10,7 @@ Open source projects and tools for managing and securing open source
 | **SBOM related tools**                            |                               |               |
 | https://github.com/awesomeSBOM/awesome-sbom/ | Awesome list of SBOM tools | A curated list of SBOM (Software Bill Of Materials) related tools, frameworks, blogs, podcasts, and articles 
 | https://cybeats.github.io/sbomgen/ | List of SBOM Generation Tools | List of SBOM Generation Tools (including a tool to convert CSV to VEX) across most programming languages
+| https://sbom-catalog.openssf.org/ | Adding SBOMs to Open Source Projects | Establishing SBOM Best Practices for open source projects through a catalog of SBOM tools and examples
 | **Incentivizing security best practices**  |                               |               |
 | https://scorecard.dev/ | Assess OSS projects for risky practices | Scorecard assesses open source projects for security risks through a series of automated checks.
 | https://www.bestpractices.dev/en/criteria | Achieve Best Practices badges at the passing, silver, and gold badge levels. | OSS users can quickly assess which projects are following best practices and as a result are more likely to produce higher-quality secure software.
